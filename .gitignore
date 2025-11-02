@@ -1,0 +1,11 @@
+# Ignore Python environments
+Week 1/traffic_env/
+venv/
+.env/
+
+# Ignore compiled files
+__pycache__/
+*.pyd
+*.dll
+*.so
+*.log
